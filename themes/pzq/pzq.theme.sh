@@ -2,7 +2,7 @@
 
 # Theme inspired by:
 #  - ys theme - https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme
-#  - rana theme - https://github.com/ohmybash/oh-my-bash/blob/master/themes/rana/rana.theme.sh
+#  - rana theme - https://github.com/ghostrider-reborn/oh-my-bash/blob/master/themes/rana/rana.theme.sh
 #
 # by Ziqiang Pei<ziqiangpei@foxmail.com>
 

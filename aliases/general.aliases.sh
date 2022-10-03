@@ -22,7 +22,7 @@
 #   -----------------------------
 
 # Determines the use of the option `-v' on the first call
-# Ref. https://github.com/ohmybash/oh-my-bash/issues/351
+# Ref. https://github.com/ghostrider-reborn/oh-my-bash/issues/351
 function _omb_alias_general_cp_init {
   if (tmp=$(_omb_util_mktemp); trap 'rm -f "$tmp"{,.2}' EXIT; command cp -v "$tmp" "$tmp.2" &>/dev/null); then
     alias cp='cp -iv' && function _omb_alias_general_cp_init { command cp -iv "$@"; }

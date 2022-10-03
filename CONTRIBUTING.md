@@ -29,7 +29,7 @@ your problem.
 
 If you find one, comment on it so we can know there are more people experiencing it.
 
-If not, look at the [Troubleshooting](https://github.com/ohmybash/oh-my-bash/wiki/Troubleshooting)
+If not, look at the [Troubleshooting](https://github.com/ghostrider-reborn/oh-my-bash/wiki/Troubleshooting)
 page for instructions on how to gather data to better debug your problem.
 
 Then, you can go ahead and create an issue with as much detail as you can provide.
@@ -64,7 +64,7 @@ clearly targets specific tools or environment such as "GNU make" or "macOS".
 
 You should be familiar with the basics of
 [contributing on GitHub](https://help.github.com/articles/using-pull-requests) and have a fork
-[properly set up](https://github.com/ohmybash/oh-my-bash/wiki/Contribution-Technical-Practices).
+[properly set up](https://github.com/ghostrider-reborn/oh-my-bash/wiki/Contribution-Technical-Practices).
 
 You MUST always create PRs with _a dedicated branch_ based on the latest upstream tree.
 
@@ -97,8 +97,8 @@ maintainers) by mentioning their GitHub handle (starting with `@`) in your messa
 
 For any extensive change, _eg_ a new plugin, you will have to find testers to +1 your PR.
 
-When you add new themes, please also update [themes/THEMES.md](https://github.com/ohmybash/oh-my-bash/blob/master/themes/THEMES.md).
-After your new themes are merged, the list in [Themes](https://github.com/ohmybash/oh-my-bash/wiki/Themes) in the Wiki also needs to be updated.
+When you add new themes, please also update [themes/THEMES.md](https://github.com/ghostrider-reborn/oh-my-bash/blob/master/themes/THEMES.md).
+After your new themes are merged, the list in [Themes](https://github.com/ghostrider-reborn/oh-my-bash/wiki/Themes) in the Wiki also needs to be updated.
 
 ----
 
@@ -111,7 +111,7 @@ to help you check whether a similar contribution to yours already exists. Please
 before making any contribution, it avoids duplicates and eases maintenance. Trust me,
 that works 90% of the time.
 
-You can also take a look at the [FAQ](https://github.com/ohmybash/oh-my-bash/wiki/FAQ)
+You can also take a look at the [FAQ](https://github.com/ghostrider-reborn/oh-my-bash/wiki/FAQ)
 to be sure your contribution has not already come up.
 
 If all fails, your thing has probably not been reported yet, so you can go ahead
@@ -123,5 +123,5 @@ and [create an issue](#reporting-issues) or [submit a PR](#submitting-pull-reque
 
 Very nice!! :)
 
-Please have a look at the [Volunteer](https://github.com/ohmybash/oh-my-bash/wiki/Volunteers)
+Please have a look at the [Volunteer](https://github.com/ghostrider-reborn/oh-my-bash/wiki/Volunteers)
 page for instructions on where to start and more.
